@@ -1,0 +1,5 @@
+body { font-family: sans-serif; background: #f4f4f4; text-align: center; }
+.galerie { display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px; }
+.karta { background: white; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); padding: 15px; width: 200px; }
+.karta h3 { color: #007bff; margin-top: 0; }
+.karta p { font-size: 0.9em; color: #555; }
